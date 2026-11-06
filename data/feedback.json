@@ -1,0 +1,37 @@
+[
+  {
+    "feedbackID": 1,
+    "SenderName": "John Smith",
+    "SenderEmail": "john.smith@example.com",
+    "feedbackMessage": "Excellent service and friendly staff.",
+    "status": "unread"
+  },
+  {
+    "feedbackID": 2,
+    "SenderName": "Sarah Wilson",
+    "SenderEmail": "sarah.wilson@example.com",
+    "feedbackMessage": "The appointment booking process was very smooth.",
+    "status": "read"
+  },
+  {
+    "feedbackID": 3,
+    "SenderName": "Michael Brown",
+    "SenderEmail": "michael.brown@example.com",
+    "feedbackMessage": "Waiting time was longer than expected.",
+    "status": "unread"
+  },
+  {
+    "feedbackID": 4,
+    "SenderName": "Emma Johnson",
+    "SenderEmail": "emma.johnson@example.com",
+    "feedbackMessage": "Doctors were professional and helpful.",
+    "status": "read"
+  },
+  {
+    "feedbackID": 5,
+    "SenderName": "David Taylor",
+    "SenderEmail": "david.taylor@example.com",
+    "feedbackMessage": "The website could be improved for easier navigation.",
+    "status": "unread"
+  }
+]
